@@ -30,3 +30,12 @@
 
 데이터 암호화 (비밀번호 등) 
 빠른 로딩 , 동시성 제어
+
+
+# 진행 상황 
+1. spring initializer로 프로젝트 뼈대 생성
+https://start.spring.io/
+
+
+
+
